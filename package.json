@@ -1,7 +1,6 @@
 {
   "name": "precofacil",
   "version": "1.0.0",
-  "description": "Comparador de pre\u00e7os com IA local",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
